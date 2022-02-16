@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isha Mehta</h1>
 <h3 align="center">A Frontend Developer</h3>
 
-- 🔭 I’m an Undergraduate currently working on **Frontend Development**
+- 🔭 I’m an Undergraduate currently learning **Frontend Development**
 
 - 🌱 I’m currently focusing on **Data Structures and Algorithms.**
 
