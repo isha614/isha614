@@ -3,7 +3,7 @@
 
 - 🔭 I’m an Undergraduate currently learning **Frontend Development**
 
-- 🌱 I’m currently focusing on **Data Structures and Algorithms.**
+- 🌱 I’m currently focusing on **Data Structures and Algorithms** and **Problem Solving Skills**
 
 - 👯 I’m looking to collaborate on **some Open Source Programs**
 
